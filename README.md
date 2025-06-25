@@ -1,2 +1,2 @@
-# Schedular_Demo
-A recreation of various schedulars in python
+# Scheduler_Demo
+A recreation of various schedulers in python
